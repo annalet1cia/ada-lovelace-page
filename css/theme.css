@@ -29,7 +29,7 @@
   /*end-variables color*/
   /*begin-variables font*/
   .u-custom-font.u-text-font {
-    font-family: 'Open Sans',sans-serif !important;
+    font-family: 'Verdana',sans-serif !important;
   }
   .u-custom-font.u-heading-font {
     font-family: Montserrat,sans-serif !important;
@@ -141,14 +141,14 @@
   .u-container-layout.u-container-layout.u-color-1-dark-2:before,
   .u-table-alt-color-1-dark-2 tr:nth-child(even) {
     color: #ffffff;
-    background-color: #514571;
+    background-color: #e90f81;
   }
   .u-input.u-color-1-dark-2,
   .u-field-input.u-color-1-dark-2,
   .u-button-style.u-color-1-dark-2,
   .u-button-style.u-color-1-dark-2[class*="u-border-"] {
     color: #ffffff !important;
-    background-color: #514571 !important;
+    background-color: #e90f81 !important;
   }
   .u-button-style.u-color-1-dark-2:hover,
   .u-button-style.u-color-1-dark-2[class*="u-border-"]:hover,
@@ -161,7 +161,7 @@
   li.active > .u-button-style.u-button-style.u-color-1-dark-2,
   li.active > .u-button-style.u-button-style.u-color-1-dark-2[class*="u-border-"] {
     color: #ffffff !important;
-    background-color: #493e66 !important;
+    background-color: #e06666 !important;
   }
   .u-hover-color-1-dark-2:hover,
   .u-hover-color-1-dark-2[class*="u-border-"]:hover,
@@ -185,10 +185,10 @@
   li.active > a.u-button-style.u-button-style.u-active-color-1-dark-2[class*="u-border-"],
   input.u-field-input.u-field-input.u-active-color-1-dark-2:checked {
     color: #ffffff !important;
-    background-color: #514571 !important;
+    background-color: #e06666 !important;
   }
   a.u-link.u-hover-color-1-dark-2:hover {
-    color: #514571 !important;
+    color: #e06666 !important;
   }
   .u-color-1-dark-1,
   .u-body.u-color-1-dark-1,
